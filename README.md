@@ -1,4 +1,4 @@
-# Test_config_vimrc
+# Simple config vim
 
 call plug#begin('~/.vim/plugged')
 
