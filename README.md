@@ -1,31 +1,17 @@
-# Simple config vim
+This one contains the following additions:
 
-call plug#begin('~/.vim/plugged')
+vim-plug (https://github.com/junegunn/vim-plug)
+scrooloose/nerdtree
+YouCompleteMe
+auto-pairs
+vim-gitgutter
+vim-fugitive
+ctrlp.vim
+vim-ruby
+emmet-vim
+gruvbox (colorschemes)
 
-Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
-
-Plug 'Valloric/YouCompleteMe'
-
-Plug 'jiangmiao/auto-pairs'
-
-Plug 'airblade/vim-gitgutter'
-
-Plug 'tpope/vim-fugitive'
-
-Plug 'kien/ctrlp.vim'
-
-Plug 'vim-ruby/vim-ruby'
-
-Plug 'mattn/emmet-vim'
-"https://vimawesome.com/plugin/emmet-vim
-
-"colorschemes тема оформления
-Plug 'morhetz/gruvbox'
-
-call plug#end()
-
-"(mappings/открыть дерево папок) (:h NERDTree-r документация)  
-map <C-n> :NERDTreeToggle<CR>
+Settings:
 
 colorscheme gruvbox
 set background=dark
