@@ -39,9 +39,11 @@ Run the following command in the terminal to install the plugin manager: </br>
 On error:
 <pre><code>YCM core library not de...you need to compile YCM before using it. Follow the instructions in the documentation</code></pre>
 Run a command in the terminal:</br>
+
 `sudo apt install build-essential cmake python3-dev`
 
 Compiling YCM without semantic support for C-family languages:</br>
+
 `cd ~/.vim/plugged/YouCompleteMe
 python3 install.py` </br>
 
