@@ -17,12 +17,10 @@ Plug 'vim-ruby/vim-ruby'
 Plug 'mattn/emmet-vim'
 "https://vimawesome.com/plugin/emmet-vim
 
-"colorschemes тема оформления
 Plug 'morhetz/gruvbox'
 
 call plug#end()
 
-"(mappings/открыть дерево папок) (:h NERDTree-r документация)  
 map <C-n> :NERDTreeToggle<CR>
 
 colorscheme gruvbox
