@@ -22,7 +22,7 @@ syntax on
 
 Quick setup (using Ubuntu 16.04 and later):
 
-Download the .vimrc file to your home directory 
+Download/copy the .vimrc file to your home directory 
 
 Run the following command in the terminal to install the plugin manager: </br>
 
