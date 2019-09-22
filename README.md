@@ -36,6 +36,10 @@ Run the following command in the terminal to install the plugin manager:  <br />
  `:PlugUpdate`  <br />
  `:PlugInstall`  <br />
  
+ You can also use the command: <br />
+ 
+ `:source ~/.vimrc`
+ 
 On error:
 <pre><code>YCM core library not de...you need to compile YCM before using it. Follow the instructions in the documentation</code></pre>
 Run a command in the terminal:  <br />
@@ -48,3 +52,19 @@ Compiling YCM without semantic support for C-family languages: <br />
 python3 install.py`  <br />
 
 More info about YouCompleteMe add-on: https://github.com/ycm-core/YouCompleteMe#linux-64-bit
+
+If you need a Vim editor for MC (midnight commander), then type in the terminal: <br />
+
+`select-editor`
+
+Select a number and press enter: <br />
+
+> Select an editor.  To change later, run 'select-editor'.
+>  1. /bin/nano        <---- easiest
+>  2. /usr/bin/vim.basic
+>  3. /usr/bin/mcedit
+>  4. /usr/bin/vim.tiny
+>  5. /bin/ed
+>
+> Choose 1-5 [1]: 2
+
