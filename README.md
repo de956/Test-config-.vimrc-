@@ -55,8 +55,7 @@ Run a command in the terminal:  <br />
 
 `sudo apt install build-essential cmake python3-dev`
 
-Compiling YCM without semantic support for C-family languages: <br />
-:exclamation: Notice! Compilation may take a long time :exclamation:
+Compiling YCM without semantic support for C-family languages: (:exclamation: Notice! Compilation may take a long time :exclamation:) <br />
 
 `cd ~/.vim/plugged/YouCompleteMe` <br />
 `python3 install.py`  <br />
