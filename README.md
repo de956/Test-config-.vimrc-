@@ -40,13 +40,23 @@ Run the following command in the terminal to install the plugin manager:  <br />
  
  `:source ~/.vimrc`
  
-On error:
+Error in vim:
+
 <pre><code>YCM core library not de...you need to compile YCM before using it. Follow the instructions in the documentation</code></pre>
+
+Error in the terminal:
+
+>YouCompleteMe unavailable: requires Vim compiled with Python (2.7.1+ or 3.5.1+) support. <br />
+>Press ENTER or type command to continue
+
+###### Fix error vim / terminal 
+
 Run a command in the terminal:  <br />
 
 `sudo apt install build-essential cmake python3-dev`
 
 Compiling YCM without semantic support for C-family languages: <br />
+:exclamation: Notice! Compilation may take a long time :exclamation:
 
 `cd ~/.vim/plugged/YouCompleteMe` <br />
 `python3 install.py`  <br />
