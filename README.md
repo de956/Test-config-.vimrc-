@@ -26,8 +26,8 @@ Download / copy the .vimrc file to your home directory
 
 Run the following command in the terminal to install the plugin manager:  <br />
 
-`curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`  <br />
+<pre>curl -fLo <span class="pl-k">~</span>/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim</pre>
   
  More info about the plugin manager [vim-plug](https://github.com/junegunn/vim-plug)  <br />
  
