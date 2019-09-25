@@ -44,16 +44,10 @@ Error in vim:
 
 <pre><code>YCM core library not de...you need to compile YCM before using it. Follow the instructions in the documentation</code></pre>
 
-Error in the terminal:
-
->YouCompleteMe unavailable: requires Vim compiled with Python (2.7.1+ or 3.5.1+) support. <br />
->Press ENTER or type command to continue
-
-###### Fix error vim / terminal 
-
 Run a command in the terminal:  <br />
 
-`sudo apt install build-essential cmake python3-dev`
+`sudo apt install build-essential cmake python3-dev` <br />
+`sudo apt-get install python-dev python3-dev` <br />
 
 Compiling YCM without semantic support for C-family languages: (:exclamation: Notice! Compilation may take a long time :exclamation:) <br />
 
