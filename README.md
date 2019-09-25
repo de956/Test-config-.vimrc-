@@ -48,8 +48,8 @@ Run a command in the terminal:  <br />
 
 Compiling YCM without semantic support for C-family languages: <br />
 
-`cd ~/.vim/plugged/YouCompleteMe
-python3 install.py`  <br />
+`cd ~/.vim/plugged/YouCompleteMe` <br />
+`python3 install.py`  <br />
 
 More info about [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe#linux-64-bit)
 
