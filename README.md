@@ -1,4 +1,4 @@
-###### This one contains the following additions:
+### This one contains the following additions:
 
 vim-plug  https://github.com/junegunn/vim-plug <br />
 nerdtree  https://github.com/scrooloose/nerdtree <br />
@@ -11,7 +11,7 @@ vim-ruby https://github.com/vim-ruby/vim-ruby <br />
 emmet-vim https://github.com/mattn/emmet-vim  <br />
 gruvbox  (colorschemes) https://github.com/morhetz/gruvbox
 
-###### Settings:
+### Settings:
 
 colorscheme gruvbox
 set background=dark  <br />
@@ -20,7 +20,7 @@ set hlsearch  <br />
 set incsearch  <br />
 syntax on
 
-###### Quick setup (using Ubuntu 16.04 and later):
+### Quick setup (using Ubuntu 16.04 and later):
 
 Download / copy the .vimrc file to your home directory 
 
@@ -56,7 +56,7 @@ Compiling YCM without semantic support for C-family languages: (:exclamation: No
 
 More info about [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe#linux-64-bit)
 
-###### If you need a Vim editor for MC (midnight commander), then type in the terminal: <br />
+### If you need a Vim editor for MC (midnight commander), then type in the terminal: <br />
 
 `select-editor`
 
