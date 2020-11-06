@@ -1,4 +1,4 @@
-##### Config for Vim, GVim and etc.
+**Config for Vim, GVim and etc.**
 
 ### This one contains the following additions:
 
