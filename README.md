@@ -1,3 +1,5 @@
+##### Config for Vim, GVim and etc.
+
 ### This one contains the following additions:
 
 vim-plug  https://github.com/junegunn/vim-plug <br />
