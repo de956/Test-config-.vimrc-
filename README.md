@@ -2,25 +2,30 @@
 
 ### This one contains the following additions:
 
-vim-plug  https://github.com/junegunn/vim-plug <br />
-nerdtree  https://github.com/scrooloose/nerdtree <br />
-YouCompleteMe https://github.com/ycm-core/YouCompleteMe <br />
-auto-pairs https://github.com/jiangmiao/auto-pairs <br />
-vim-gitgutter https://github.com/airblade/vim-gitgutter <br />
-vim-fugitive https://github.com/tpope/vim-fugitive <br />
-ctrlp.vim https://github.com/kien/ctrlp.vim <br />
-vim-ruby https://github.com/vim-ruby/vim-ruby <br />
-emmet-vim https://github.com/mattn/emmet-vim  <br />
-gruvbox  (colorschemes) https://github.com/morhetz/gruvbox
+[vim-plug](https://github.com/junegunn/vim-plug) <br /> 
+[nerdtree](https://github.com/scrooloose/nerdtree) <br />
+[YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) <br />
+[auto-pairs](https://github.com/jiangmiao/auto-pairs) <br />
+[vim-gitgutter](https://github.com/airblade/vim-gitgutter) <br />
+[vim-fugitive](https://github.com/tpope/vim-fugitive) <br />
+[ctrlp.vim](https://github.com/kien/ctrlp.vim) <br />
+[vim-ruby](https://github.com/vim-ruby/vim-ruby) <br />
+[emmet-vim](https://github.com/mattn/emmet-vim)  <br />
+[gruvbox (colorschemes)](https://github.com/morhetz/gruvbox)
 
 ### Settings:
 
-colorscheme gruvbox
-set background=dark  <br />
-set number  <br />
-set hlsearch  <br />
-set incsearch  <br />
-syntax on
+<code>colorscheme gruvbox</code>
+
+<code>set background=dark</code>
+
+<code>set number</code>
+
+<code>set hlsearch</code>
+
+<code>set incsearch</code>
+
+<code>syntax on</code>
 
 ### Quick setup (using Ubuntu 16.04 and later):
 
